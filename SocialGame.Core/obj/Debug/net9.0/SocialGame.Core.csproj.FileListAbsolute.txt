@@ -1,0 +1,5 @@
+D:\Gamio\SocialGame.Core\obj\Debug\net9.0\SocialGame.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gamio\SocialGame.Core\obj\Debug\net9.0\SocialGame.Core.AssemblyInfoInputs.cache
+D:\Gamio\SocialGame.Core\obj\Debug\net9.0\SocialGame.Core.AssemblyInfo.cs
+D:\Gamio\SocialGame.Core\obj\Debug\net9.0\SocialGame.Core.csproj.CoreCompileInputs.cache
+D:\Gamio\SocialGame.Core\obj\Debug\net9.0\SocialGame.Core.sourcelink.json

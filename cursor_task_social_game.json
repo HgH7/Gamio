@@ -1,0 +1,54 @@
+{
+    "name": "Social Game - Gamified Social Media Platform",
+    "description": "Build a full-stack web application called 'Social Game', a gamified social media platform. Use .NET (ASP.NET Core) for the backend and React.js for the frontend. The app supports authentication, profile management, posts, XP gamification, premium subscription features, leaderboards, and notifications.",
+    "tasks": [
+        {
+            "name": "Backend Setup (.NET Core)",
+            "description": "Create ASP.NET Core Web API project with layered architecture and JWT-based authentication."
+        },
+        {
+            "name": "Database Design",
+            "description": "Design and implement SQL Server database with Entity Framework Core, including User, Post, XP, Subscription, and Notification tables."
+        },
+        {
+            "name": "Frontend Setup (React.js)",
+            "description": "Initialize React app, configure Tailwind CSS, React Router, and basic layout components."
+        },
+        {
+            "name": "Authentication & Authorization",
+            "description": "Implement registration, login, logout, and role-based access control on both frontend and backend."
+        },
+        {
+            "name": "User Profiles",
+            "description": "Create and edit user profiles with public/private toggles, XP stats, badges, and themes."
+        },
+        {
+            "name": "Post Management",
+            "description": "Allow users to create, update, delete, and view posts with text, images, and videos."
+        },
+        {
+            "name": "XP & Gamification",
+            "description": "Implement XP system with activities like posting and XP battles. Include leaderboard and badges."
+        },
+        {
+            "name": "Premium Subscription Features",
+            "description": "Add support for XP multipliers, exclusive battles, custom themes, and rewards for premium users."
+        },
+        {
+            "name": "Search and Notifications",
+            "description": "Implement search by tags/usernames and real-time or polling-based notification system."
+        },
+        {
+            "name": "Unit Testing",
+            "description": "Write basic unit tests for business logic and services in the backend."
+        },
+        {
+            "name": "UML Diagrams",
+            "description": "Design and provide use case, class, ERD, and activity diagrams for the system."
+        },
+        {
+            "name": "Documentation",
+            "description": "Create README.md with setup instructions, tech stack, and usage guide."
+        }
+    ]
+}

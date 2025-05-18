@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "geDGYZjz1sV0OpVcohqnTaXU8gxLuPgU/KGFVp4xwZ8=",
+  "Source": "SocialGame.API",
+  "BasePath": "_content/SocialGame.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
